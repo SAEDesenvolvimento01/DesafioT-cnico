@@ -64,11 +64,7 @@ Requisitos:
 > Cidade 
 - ID: Identificador único (integer).
 - nome: (varchar , 25 caracteres).
-- estadoID: (integer).
-
-> Estado
-- ID: Identificador único do estado (integer).
-- Nome : (varchar , 25 caracteres).
+- estado: (varchar, 20 caracteres).
 
 # Requisitos funcionais 
 
